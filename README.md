@@ -4,4 +4,4 @@ Results obtainted are
 r2_score for training data  0.9123789849598507
 R2_score for testing data =  0.8706315588001206
 Root mean square error =  0.31900935622607113
-Adj R2 =  0.8695583666031381
+Adj R2 =  0.8695583666031381                  
